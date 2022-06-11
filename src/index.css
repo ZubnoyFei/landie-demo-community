@@ -40,6 +40,16 @@
     src: url("Roboto_font/Roboto-Black.woff2") format('woff2');
 }
 
+title {
+    font-size: 26px;
+    line-height: 1.5;
+}
+
+.navmenu {
+    color: #505F98;
+    font-size: 14px;
+    line-height: 1.7;
+}
 
 body {
     font-family: Roboto, sans-serif;
@@ -74,17 +84,8 @@ h3 {
     line-height: 1.6;
 }
 
-.navmenu {
-    color: #505F98;
-;
-    font-size: 14px;
-    line-height: 1.7;
-}
 
-title {
-    font-size: 26px;
-    line-height: 1.5;
-}
+
 
 .introduce-project button {
     font-size: 16px;
@@ -111,6 +112,10 @@ header, footer button {
     line-height: 1.6;
 }
 
+.price-to-suit {
+    background-color: #E7ECFF;
+}
+
 .price-to-suit h3 {
     font-size: 50px;
     line-height: 1.3;
@@ -121,4 +126,6 @@ header, footer button {
     line-height: 1.7;
 }
 
-
+footer {
+    background-color: #E7ECFF;
+}
