@@ -1,0 +1,60 @@
+@font-face {
+    font-family: Roboto;
+    font-display: swap;
+    font-weight: 100;
+    src: url("Roboto_font/Roboto-Thin.woff2") format('woff2');
+}
+
+@font-face {
+    font-family: Roboto;
+    font-display: swap;
+    font-weight: 300;
+    src: url("Roboto_font/Roboto-Light.woff2") format('woff2');
+}
+
+@font-face {
+    font-family: Roboto;
+    font-display: swap;
+    font-weight: 400;
+    src: url("Roboto_font/Roboto-Medium.woff2") format('woff2');
+}
+
+@font-face {
+    font-family: Roboto;
+    font-display: swap;
+    font-weight: 500;
+    src: url("Roboto_font/Roboto-Regular.woff2") format('woff2');
+}
+
+@font-face {
+    font-family: Roboto;
+    font-display: swap;
+    font-weight: 700;
+    src: url("Roboto_font/Roboto-Bold.woff2") format('woff2');
+}
+
+@font-face {
+    font-family: Roboto;
+    font-display: swap;
+    font-weight: 900;
+    src: url("Roboto_font/Roboto-Black.woff2") format('woff2');
+}
+
+
+body {
+    font-family: Roboto, sans-serif;
+}
+
+button {
+    background-color: #111B47;
+    color: #FFFFFF;
+}
+
+h1 {
+    color: #091133;
+}
+
+p{
+  color: #505F98;
+}
+
