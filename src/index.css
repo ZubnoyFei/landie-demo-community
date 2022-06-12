@@ -84,9 +84,6 @@ h3 {
     line-height: 1.6;
 }
 
-
-
-
 .introduce-project button {
     font-size: 16px;
     line-height: 1.6;
@@ -95,7 +92,10 @@ h3 {
 .introduce-project button:last-of-type {
 background-color: #E7ECFF;
     color:  #091133;
-;
+}
+
+.introduce-project img {
+    width:1490px;
 }
 
 header, footer button {
@@ -111,6 +111,11 @@ header, footer button {
     font-size: 18px;
     line-height: 1.6;
 }
+
+.light-fast img {
+    width: 480px;
+}
+
 
 .price-to-suit {
     background-color: #E7ECFF;
