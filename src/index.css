@@ -63,7 +63,7 @@ header button, footer button {
     line-height: 1.5;
 }
 
-header a:first-of-type {
+ header >a:first-of-type{
     color: #37447E;
     font-weight: 900;
     font-size: 26px;
