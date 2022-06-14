@@ -137,6 +137,11 @@ p {
     gap: 30px;
 }
 
+
+.purchase-now-body button {
+    font-size: 14px;
+    line-height: 1.7;
+}
 h2 {
     color: #091133;
     font-size: 36px;
@@ -173,9 +178,19 @@ h3 {
     padding-bottom: 108px;
 }
 
+.light-fast h2 {
+    padding-bottom: 16px;
+}
+
 .light-fast-text-content {
     display: flex;
 justify-content: space-between;
+}
+
+.light-fast-text-content h3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 .light-fast p {
@@ -188,19 +203,13 @@ justify-content: space-between;
     width: 36px;
 }
 
-.purchase-now-body button {
-    font-size: 14px;
-    line-height: 1.7;
-}
 
 .introduce-project p {
     font-size: 18px;
     line-height: 1.6;
 }
 
-.light-fast img:last-of-type {
-    width: 480px;
-}
+
 
 .light-fast {
     display: flex;
@@ -211,6 +220,11 @@ justify-content: space-between;
     margin-bottom: 413px;
 }
 
+.woman-tablet {
+    display: flex;
+    margin-top: -70px;
+    padding-bottom: 100px;
+}
 .price-to-suit {
     background-color: #E7ECFF;
     text-align: center;
@@ -295,6 +309,12 @@ footer h2:last-of-type {
     align-items: flex-start;
     text-align: start;
     flex-direction: row;
-    justify-content: space-around;
+ gap: 60px;
 }
 
+.social-media-buttons {
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row;
+    gap: 60px;
+}
