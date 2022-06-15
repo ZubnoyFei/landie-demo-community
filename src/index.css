@@ -191,6 +191,8 @@ h3 {
     padding-bottom: 108px;
 }
 
+
+
 .light-fast-text {
     max-width: 540px;
 }
@@ -223,6 +225,10 @@ margin-top: -30px;
     font-size: 16px;
     color: #5D6970;
     line-height: 1.2;
+}
+
+.text-inside {
+    width: 255px;
 }
 
 .icon {
