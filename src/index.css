@@ -135,6 +135,15 @@ padding-top: 200px;
 padding-left: 150px;
 }
 
+
+
+.text-inside h3 {
+    margin-left: 150px;
+}
+
+.icon {
+    margin-left: 150px;
+}
 .hero-container p {
     font-size: 16px;
     line-height: 1.6;
