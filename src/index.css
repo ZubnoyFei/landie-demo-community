@@ -258,13 +258,14 @@ h1 {
 }
 
 
-.footer-wrapper {
+.footer-sign {
     display: flex;
     justify-content: space-between;
     width: 1440px;
     background-color:  #E7ECFF;
     padding-bottom: 40px;
     border-bottom: 1px solid;
+    padding-top: 70px;
 }
 
 
@@ -310,11 +311,25 @@ h1 {
     line-height: 1.7;
 }
 
+.bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top:20px;
+    background-color: #E7ECFF;
+}
 
+.social-media-buttons {
+    display: flex;
+    gap: 30px;
+}
 
-
-
-
+.footer-sign p {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.7;
+    color: #939ea4;
+}
 
 
 
