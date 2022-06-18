@@ -42,7 +42,7 @@
 
 
 .container {
-    width: 1440px;
+    width: 1110px;
     margin-right: auto;
     margin-left: auto;
 }
@@ -58,6 +58,7 @@ body {
 }
 
 header {
+    width: 1110px;
     padding: 12px 0;
 }
 
@@ -67,9 +68,13 @@ header > div {
     align-items: center;
 }
 
+
+
 .navmenu ul {
     display: flex;
     gap: 60px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .navmenu a {
@@ -96,7 +101,7 @@ button {
     border-color: #111B47;
     border-radius: 2px;
     background-color: #111B47;
-    display: inline-block;
+    /*display: inline-block;*/
 }
 
 .outline {
@@ -165,8 +170,9 @@ h1 {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.6;
-    padding-bottom: 15px;
 }
+
+
 
 .light-fast-first text {
     margin-bottom: 80px;
@@ -174,6 +180,10 @@ h1 {
 
 .light-fast-text p {
     margin-bottom: 80px;
+}
+
+.light-fast-text {
+    order: -1;
 }
 
 .title-goes-here {
@@ -232,6 +242,10 @@ h1 {
     gap: 125px;
 }
 
+.light-fast-text-content p:last-of-type {
+    padding-bottom: 40px;
+}
+
 .img-wrap {
     width: 540px;
     display: flex;
@@ -242,7 +256,8 @@ h1 {
 
 
 .price-to-suit {
-    background-color: rgba(231, 236, 255, 0.5);
+    width: 1440px;
+    /*background-color: rgba(231, 236, 255, 0.5);*/
     padding: 237px 0 172px;
     text-align: center;
 }
@@ -329,6 +344,10 @@ h1 {
     font-weight: 500;
     line-height: 1.7;
     color: #939ea4;
+}
+
+.footer-section {
+    width: 1440px;
 }
 
 
