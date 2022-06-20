@@ -60,12 +60,15 @@ body {
 header {
     width: 1110px;
     padding: 12px 0;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 header > div {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+
 }
 
 
@@ -243,7 +246,7 @@ h1 {
 }
 
 .light-fast-text-content p:last-of-type {
-    padding-bottom: 40px;
+   margin-bottom: 40px;
 }
 
 .img-wrap {
@@ -273,25 +276,13 @@ h1 {
 }
 
 
-.footer-sign {
-    display: flex;
-    justify-content: space-between;
-    width: 1440px;
-    background-color:  #E7ECFF;
-    padding-bottom: 40px;
-    border-bottom: 1px solid;
-    padding-top: 70px;
-}
-
 
 .price-to-suit .caption {
     font-size: 16px;
     line-height: 1.6;
     color: #6F7CB2;
     margin-bottom: 35px;
-    max-width: 600px;
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
 }
 
 
@@ -326,6 +317,22 @@ h1 {
     line-height: 1.7;
 }
 
+
+
+footer {
+    background-color:  #E7ECFF;
+    padding-bottom: 40px;
+    width: 1440px;
+    padding-top: 70px;
+}
+
+.footer-sign {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid;
+    padding-bottom: 40px;
+}
+
 .bottom {
     display: flex;
     justify-content: space-between;
@@ -347,7 +354,8 @@ h1 {
 }
 
 .footer-section {
-    width: 1440px;
+    align-items: center;
+
 }
 
 
