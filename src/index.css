@@ -314,8 +314,7 @@ h1 {
 
 footer {
     display: flex;
-    padding-bottom: 40px;
-    padding-top: 70px;
+
 }
 
 .footer-sign {
@@ -347,6 +346,8 @@ footer {
 .footer-section {
     align-items: center;
     background-color:  #E7ECFF;
+    padding-bottom: 40px;
+    padding-top: 70px;
 }
 
 
