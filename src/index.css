@@ -43,8 +43,6 @@
 
 .container {
     width: 1110px;
-    margin-right: auto;
-    margin-left: auto;
 }
 
 body {
@@ -58,24 +56,18 @@ body {
 }
 
 header {
-    width: 1110px;
     padding: 12px 0;
     align-items: center;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 header > div {
     display: flex;
     justify-content: space-between;
-
 }
 
 .navmenu ul {
     display: flex;
     gap: 60px;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .navmenu a {
@@ -257,7 +249,6 @@ h1 {
 
 
 .price-to-suit {
-    width: 1440px;
     /*background-color: rgba(231, 236, 255, 0.5);*/
     padding: 237px 0 172px;
     text-align: center;
@@ -352,7 +343,6 @@ footer {
 
 .footer-section {
     align-items: center;
-
 }
 
 
