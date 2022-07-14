@@ -1,8 +1,11 @@
 .price-to-suite {
     padding-top: 160px;
     padding-bottom: 160px;
-background-color: #E7ECFF;
+background-color: rgba(231, 236, 255, 0.5);
+
+
 }
+
 
 .price-to-suite__heading {
     text-align: center;
@@ -10,5 +13,32 @@ background-color: #E7ECFF;
 }
 
 .price-to-suite__text {
-    text-align: center;
+text-align: center;
+}
+
+.price-big {
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 1.2;
+    color: #222F65;
+    margin-bottom: 20px;
+}
+
+.price-to-suite__kit-price {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.ui--kit {
+    color: #37447E;
+}
+
+.price-to-suite__bottom-text {
+    color:#5D6970;
+}
+
+.price__button {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
 }

@@ -1,11 +1,17 @@
 .button {
     background-color: #111B47;
     color: #FFFFFF;
+    border: 1px solid #111B47;
 }
 
 .button--small {
     padding-top: 5px;
-    padding-right: 10px;
+    padding-right: 20px;
     padding-bottom: 5px;
-    padding-left: 10px;
+    padding-left: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.2;
+
+
 }

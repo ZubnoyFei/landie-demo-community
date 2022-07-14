@@ -1,0 +1,39 @@
+.footer {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.footer__text-wrap {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer {
+    background-color: #E7ECFF;
+}
+
+.footer__navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.footer__text-wrap {
+    align-items: center;
+    padding-bottom:25px ;
+    border-bottom: 1px solid #CDD1D4;
+}
+
+.footer__text {
+    color: #939EA4;
+}
+
+.footer__nav {
+    padding-top:25px ;
+}
+
+.footer__social-media {
+    display: flex;
+    gap: 30px;
+}
