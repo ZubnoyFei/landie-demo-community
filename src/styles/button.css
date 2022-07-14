@@ -1,0 +1,12 @@
+.button {
+    background-color: #111B47;
+    color: #FFFFFF;
+}
+
+.button--small {
+    width: 110px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
