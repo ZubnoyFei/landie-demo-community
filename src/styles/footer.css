@@ -6,6 +6,9 @@
 .footer__text-wrap {
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    padding-bottom:25px ;
+    border-bottom: 1px solid #CDD1D4;
 }
 
 .footer {
@@ -19,17 +22,12 @@
 
 }
 
-.footer__text-wrap {
-    align-items: center;
-    padding-bottom:25px ;
-    border-bottom: 1px solid #CDD1D4;
-}
 
 .footer__text {
     color: #939EA4;
 }
 
-.footer__nav {
+.footer__nav-wrap {
     padding-top:25px ;
 }
 

@@ -1,13 +1,9 @@
 .hero {
-    padding-top: 100px;
+    padding-top: 30px;
     padding-bottom: 400px;
-}
-
-.hero--background{
     background-image: url("../../src/img/designer_1.png");
     background-position: right  top ;
     background-repeat: no-repeat;
-
 }
 
 
