@@ -37,16 +37,16 @@
     text-align: justify;
 }
 
-.light--fast__heading {
+.light-fast__heading {
     margin-bottom: 35px;
 }
 
-.light--fast__subtitle {
+.light-fast__subtitle {
     margin-bottom: 15px;
 }
 
 .light-fast__img {
-    width: 480px;
+    width: 100%;
 }
 
 .light-fast__button {
